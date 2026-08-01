@@ -34,28 +34,39 @@ Download the full CV: [cv.pdf](../cv.pdf)
 
 #### Professional service (selected)
 
-- **2025** Member, Self-Evaluation Committee, Multifunctional Administrative City Construction Agency (11th)
-- **2025** Executive Director, Korea Planners Association
-- **2025** Chair, Editorial Committee of *Urban Information Service*, Korea Planners Association
-- **2024** Technical Review Committee Member (16th), LH
-- **2024** Civilian Member, Special Committee on Aged Planned City Regeneration
-- **2024** Member, Special Committee on Regional Super-metropolitan Area Building, Regional Era Committee
-- **2024** Member, Special Committee on Floating Population, Regional Era Committee
-- **2024** General Member, National Academy of Engineering of Korea
-- **2023** Member, Master Planning Task Force for Daejeon Station Future Transfer Center
-- **2021** UCP (Urban Concept Planner), Uiwang-Gunpo-Ansan Public Housing District
-- **2021** Chair, National Territory Information Research Committee, Korea Planners Association
-- **2021** Vice Chair, Editorial Committee of *Urban Information Service*, Korea Planners Association
-- **2021** Chair, Big Data Research Committee, Korea Planners Association
-- **2020** Member, Central Diagnosis Team for Regional Safety, Ministry of the Interior and Safety
-- **2020** Smart City Future Strategy Advisor, LH
-- **2020** Chief Planner, Smart City, Gangdong-gu
-- **2020** Technical Advisor, Architecture Advisory Committee, Ministry of Foreign Affairs
-- **2019~** Director, Korea Planners Association
-- **2019** Chair, Smart City Planning Research Committee, Korea Planners Association
-- **2018~** Director, Urban Design Institute of Korea
-- **2018** Member, Big Data Deliberation Committee, Seoul Metropolitan Government
-- **2014, 2014** Urban Planning Committee / Urban and Architecture Joint Committee, Incheon Seo-gu
-- **2013~** Director, Korea Society of Urban Policies
+- 제11기 행정중심복합도시건설청 자체평가위원회 위원 (2005)
+- 대한국토·도시계획학회 상임이사 (2005)
+- 대한국토·도시계획학회 도시정보지 편집위원회 위원장 (2005)
+- 2024		제16기 LH 기술심사평가위원
+- 2024		노후계획도시 정비 특별위원회 민간위원
+- 2024		지방시대위원회 지방 초광역권 구축 특별위원회 위원
+- 2024		지방시대위원회 생활인구 특별위원회 위원
+- 2024		공학한림원 일반회원
+- 2023		대전역 미래형 환승센터 총괄기획단 위원
+- 2021		의왕군포안산 공공주택지구 UCP (Urban Concept Planner)
+- 2021		대한국토·도시계획학회 국토정보연구위원회 위원장
+- 2021		대한국토·도시계획학회 도시정보지 편집위원회 부위원장
+- 2021		대한국토·도시계획학회 빅데이터연구위원회 위원장
+- 2020		행정안전부 지역안전도 중앙진단반 위원
+- 2020		LH 스마트시티 미래전략자문위원
+- 2020		강동구 스마트시티 총괄기획가
+- 2020		외교부 건축자문위원회 기술자문위원
+- 2020		아시아실리콘밸리 성남 지원협의체 위원
+- 2019		스마트시티 혁신성장동력 프로젝트 자문위원
+- 2019		대한국토·도시계획학회 스마트도시계획연구위원회 위원장
+- 2019		대한국토·도시계획학회 이사
+- 2018		한국도시설계학회 이사
+- 2018		성남 일반산업단지(하이테크밸리) 총괄기획단 위원
+- 2018		행정안전부 지역안전도 현지진단 중앙진단반 위원
+- 2018		서울특별시 빅데이터 심의위원
+- 2017		대한국토도시계획학회 학술위원회 위원
+- 2016		국민안전처 풍수해저감종합계획 검토위원
+- 2014		대한국토·도시계획학회 국제위원회 위원
+- 2014		대한국토·도시계획학회 정보화위원회 위원					
+- 2014		한국도시설계학회 학회지 편집위원						
+- 2013       	도시정책학회 이사
+- 2014		인천광역시 서구 도시계획위원							
+- 2014		인천광역시 서구 도시건축공동위원						
+- 2000~04	원도시건축 건축사사무소		
 
 *(See [cv.pdf](../cv.pdf) for the complete list.)*
