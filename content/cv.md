@@ -17,18 +17,18 @@ Download the full CV: [cv.pdf](../cv.pdf)
 
 **Doctoral dissertation**: *The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior*
 
-#### Research fields
+#### 연구분야
 
-도시설계(Urban Design), 빅데이터(Big Data), 생활인구(Floating Population), 보행환경(Walkability), 기후변화(Climate Change), GIS
+도시설계, 빅데이터, 생활인구, 보행환경, 기후변화, GIS
 
-#### Academic appointments
+#### 교육경력
 
-- **2025-** Professor, Graduate School of Environmental Studies, Seoul National University
-- **2023-25** Associate Dean for Academic Affairs, Graduate School of Environmental Studies, Seoul National University
-- **2020-** Associate Professor, Department of Environmental Planning, Graduate School of Environmental Studies, Seoul National University
-- **2019-20** Associate Professor, Urban Engineering, Hongik University
-- **2012-19** Assistant Professor, Urban Engineering, Hongik University
-- **2000-04** Wondoshi Architects & Engineers
+- **2025~현재** 서울대학교 환경대학원 교수
+- **2023-25** 서울대학교 환경대학원 교무부원장
+- **2020~24** 서울대학교 환경대학원 환경설계학과 부교수
+- **2019-20** 홍익대학교 도시공학전공 부교수
+- **2012-19** 홍익대학교 도시공학전공 조교수
+- **2000-04** 원도시건축 건축사사무소
 
 ---
 
