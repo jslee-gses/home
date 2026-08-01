@@ -1,0 +1,104 @@
+baseURL: "https://jslee-gses.github.io/home/"
+title: Jae Seung Lee
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Papers
+          url: papers/
+          weight: 1
+        - name: Books
+          url: books/
+          weight: 2
+        - name: Projects
+          url: projects/
+          weight: 3
+        - name: Awards
+          url: awards/
+          weight: 4
+        - name: CV
+          url: cv/
+          weight: 5
+
+params:
+    description: "Jae Seung Lee's academic website: research papers, books, projects, awards, and curriculum vitae."
+    author: Jae Seung Lee
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["papers","books","projects","awards"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Jae Seung Lee, Ph.D.
+          subtitle: "Professor, Graduate School of Environmental Studies, Seoul National University. My research focuses on urban design, big data, floating population, walkability, climate change, and GIS. I received my Ph.D. in Urban and Regional Planning from MIT, and master's degrees in Architecture and Urban Design from the University of Michigan."
+          buttons:
+            - name: Papers
+              url: papers/
+            - name: Books
+              url: books/
+            - name: Projects
+              url: projects/
+            - name: Awards
+              url: awards/
+            - name: CV
+              url: cv/
+
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:js.lee@snu.ac.kr
+        - name: Google Scholar
+          url: https://scholar.google.co.kr/citations?user=4ejXZ0kAAAAJ&hl=en
+        - name: ORCID
+          url: https://orcid.org/0000-0001-9087-5975
+        - name: ResearchGate
+          url: https://www.researchgate.net/profile/Jae-Seung-Lee-2
+        - name: Lab
+          url: http://usdl.snu.ac.kr
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Jae Seung Lee"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

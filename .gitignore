@@ -1,0 +1,8 @@
+# Hugo build artifacts
+public/
+resources/
+.hugo_build.lock
+
+# Source resume files (not needed in public repo; public copy lives at static/cv.pdf)
+이력서_이제승_v38.hwp
+이력서_이제승_v38.pdf
