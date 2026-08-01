@@ -15,11 +15,14 @@ Download the full CV: [cv.pdf](../cv.pdf)
 * University of Michigan, 건축학 석사, 도시설계학 석사 (2005~08)
 * 서울대학교, 산업디자인과 미술학사, 건축학과 건축학사 (1993~00)
 
-**박사학위논문**: *The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior*
+#### 박사학위논문
+
+* The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior*
 
 #### 연구분야
 
-도시설계, 빅데이터, 생활인구, 보행환경, 기후변화, GIS
+도시설계, 빅데이터, AI, 인구변화, 보행환경, 기후변화
+
 
 #### 교육경력
 
