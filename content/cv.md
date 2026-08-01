@@ -17,7 +17,7 @@ Download the full CV: [cv.pdf](../cv.pdf)
 
 #### 박사학위논문
 
-* The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior*
+* The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior
 
 
 #### 연구분야
