@@ -19,9 +19,10 @@ Download the full CV: [cv.pdf](../cv.pdf)
 
 * The impact of urban form on older adults: focusing on neighborhood design and baby boomers' local behavior*
 
+
 #### 연구분야
 
-도시설계, 빅데이터, AI, 인구변화, 보행환경, 기후변화
+* 도시설계, 빅데이터, AI, 인구변화, 보행환경, 기후변화
 
 
 #### 교육경력
