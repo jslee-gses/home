@@ -5,7 +5,9 @@
     text-indent: -1.8em;
 }
 
-.social-icons a img.lab-logo-icon {
-    height: 26px;
-    width: auto;
+.social-icons a .lab-logo-text {
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+    line-height: 26px;
 }
