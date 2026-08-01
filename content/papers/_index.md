@@ -9,8 +9,8 @@ Full and up-to-date list also available on [Google Scholar](https://scholar.goog
 
 #### International journals (SCI(E), SSCI, AHCI)
 
-**43. Yoon, S., Lee, J.S., and Kim, S. (2026)** 
-Selective polycentricity in the knowledge economy: CBD primacy and subcenter heterogeneity in Seoul. 
+**43. Yoon, S., Lee, J.S., and Kim, S. (2026)** <br>
+Selective polycentricity in the knowledge economy: CBD primacy and subcenter heterogeneity in Seoul. <br>
 *Journal of Urban Management* (ESCI). 15: 1178–1194.
 
 **42.** Lee, S., and Lee, J.S. (Corresponding Author). (2025) Assessing urban solar glare from glass curtain walls: Effects of street orientation and building form on sustainable design and public safety. *Sustainable Cities and Society* (SCIE). 135: 106984.
