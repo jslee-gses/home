@@ -11,3 +11,8 @@
     letter-spacing: 0.02em;
     line-height: 26px;
 }
+
+/* Profile name: reduced ~30% from the theme's default 2em heading size */
+.profile .profile_inner h1 {
+    font-size: 1.4em;
+}
