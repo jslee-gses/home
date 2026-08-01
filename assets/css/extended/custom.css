@@ -1,6 +1,6 @@
 /* Hanging indent for citation-style entries (Papers, Books, Grants, Projects):
    second/third lines align with the text that follows "NN. " on the first line. */
 .post-content p:has(> strong:first-child) {
-    padding-left: 2.6em;
-    text-indent: -2.6em;
+    padding-left: 1.8em;
+    text-indent: -1.8em;
 }
