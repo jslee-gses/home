@@ -1,0 +1,12 @@
+<div class="social-icons" {{ with .align}}align="{{.}}" {{- end }}>
+    {{- range site.Params.socialIcons }}
+    <a href="{{ trim .url " " | safeURL }}" target="_blank" rel="noopener noreferrer me"
+        title="{{ (.title | default .name) | title }}">
+        {{- if eq (.name | lower) "lab" }}
+        <img class="lab-logo-icon" src="{{ "usdl-logo.png" | absURL }}" alt="USDL — Urban Studies &amp; Design Lab">
+        {{- else }}
+        {{ partial "svg.html" . }}
+        {{- end }}
+    </a>
+    {{- end }}
+</div>
