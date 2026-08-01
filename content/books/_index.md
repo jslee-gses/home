@@ -39,6 +39,6 @@ in *Transforming the Nation*. Seoul: Yonsei University Press. 301-319.
 
 #### Patent
 
-**1. 이제승. (2022)** <br>
+**01. 이제승. (2022)** <br>
 GAN을 이용하는 인테리어 추천 방법 및 장치. <br>
 등록번호 10-2021-0032206.
