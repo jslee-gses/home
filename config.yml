@@ -73,8 +73,6 @@ params:
               url: cv/
 
     socialIcons:
-        - name: CV
-          url: cv.pdf
         - name: Email
           url: mailto:js.lee@snu.ac.kr
         - name: Google Scholar

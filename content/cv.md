@@ -1,12 +1,7 @@
 ---
 title: "CV"
 description: "Curriculum vitae of Jae Seung Lee: education, academic appointments, and professional service."
-ShowToc: true
-TocOpen: true
----
-
-Download the full CV: [cv.pdf](../cv.pdf)
-
+ShowToc: false
 ---
 
 #### 학력
@@ -67,5 +62,3 @@ Download the full CV: [cv.pdf](../cv.pdf)
 * 도시정책학회 이사 (2013~)
 * 인천광역시 서구 도시계획위원 (2014)
 * 인천광역시 서구 도시건축공동위원 (2014)
-
-*(See [cv.pdf](../cv.pdf) for the complete list.)*
