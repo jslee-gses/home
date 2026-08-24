@@ -3,6 +3,9 @@ title: "Projects"
 description: "Commissioned and consulting projects led by Jae Seung Lee."
 ---
 
+**56. 도시 역동성 지수 체계 고도화 및 세계 주요 도시 비교평가 학술연구 용역 (2026)** <br>
+서울시 | 연구참여
+
 **55. 셔클 리포트 발행을 위한 Case Study 분석 용역 (2025)** <br>
 현대자동차 | 연구참여
 
