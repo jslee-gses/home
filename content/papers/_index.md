@@ -9,10 +9,15 @@ Full and up-to-date list also available on [Google Scholar](https://scholar.goog
 
 #### International journals (SCI(E), SSCI, AHCI)
 
-**43. Yoon, S., Lee, J.S., and Kim, S. (2026)** <br>
+**44. Yoon, S., Lee, J.S., and Kim, S. (2026)** <br>
 Selective polycentricity in the knowledge economy: CBD primacy and subcenter heterogeneity in Seoul. <br>
 *Journal of Urban Management* (ESCI). 15: 1178–1194. <br>
 *[link](https://scholar.google.com/scholar?q=Selective+polycentricity+in+the+knowledge+economy%3A+CBD+primacy+and+subcenter+heterogeneity+in+Seoul.)*
+
+**43. Lee, S., Kim, S., and Lee, J.S. (Corresponding Author). (2026)** <br>
+Heat Adaptation in Street Markets: The Role of Fog Cooling Systems in Sales Growth. <br>
+*Journal of Urban Planning and Developmentn* (SSCI). 152(1): 04025093. <br>
+*[link](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5723)*
 
 **42. Lee, S., and Lee, J.S. (Corresponding Author). (2025)** <br>
 Assessing urban solar glare from glass curtain walls: Effects of street orientation and building form on sustainable design and public safety. <br>
