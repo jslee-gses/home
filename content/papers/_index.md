@@ -233,7 +233,7 @@ By community or design? The influence of age-restricted neighborhoods and physic
 
 #### Domestic journals (KCI, SCOPUS)
 
-**21. 조윤형, 최혜인, 이제승 (교신저자). (2026)** <br>
+**21. 조윤형, 최해인, 이제승 (교신저자). (2026)** <br>
 한국 도시계획 분야에 대한 대규모 언어모델 적합성 평가와 법령 기반 RAG의 효과 분석 - 한국 도시계획기사 시험 문제를 중심으로. <br>
 「도시설계」. 27(4): 5-22. <br>
 *[link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=%EC%95%84%ED%8C%8C%ED%8A%B8+%EC%A4%91%EC%8B%AC+%EC%A3%BC%EA%B1%B0%ED%99%98%EA%B2%BD%EC%9D%98+%EA%B7%BC%EB%A6%B0+%ED%86%B5%ED%96%89+%EC%88%98%EB%8B%A8%EC%84%A0%ED%83%9D+%EA%B2%BD%ED%96%A5%EC%84%B1+%E2%80%93+%EC%88%98%EB%8F%84%EA%B6%8C%EC%9D%84+%EB%8C%80%EC%83%81%EC%9C%BC%EB%A1%9C&btnG=)*
