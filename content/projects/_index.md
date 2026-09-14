@@ -3,6 +3,12 @@ title: "Projects"
 description: "Commissioned and consulting projects led by Jae Seung Lee."
 ---
 
+**58. LH AI 시범도시 전략계획 수립 용역 (2026)** <br>
+LH 한국토지주택공사 | 연구참여
+
+**57. 광역 복합철도역의 전주기 성능기반 통합 시뮬레이션 및 설계 최적화 기술 개발 (2026)** <br>
+과학기술정보통신부 AI국가대표양성(InnoCORE)사업 | 연구참여
+
 **56. 도시 역동성 지수 체계 고도화 및 세계 주요 도시 비교평가 학술연구 용역 (2026)** <br>
 서울시 | 연구참여
 
