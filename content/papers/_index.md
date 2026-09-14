@@ -17,7 +17,7 @@ Selective polycentricity in the knowledge economy: CBD primacy and subcenter het
 **43. Lee, S., Kim, S., and Lee, J.S. (Corresponding Author). (2026)** <br>
 Heat Adaptation in Street Markets: The Role of Fog Cooling Systems in Sales Growth. <br>
 *Journal of Urban Planning and Developmentn* (SSCI). 152(1): 04025093. <br>
-*[link](https://ascelibrary.org/doi/10.1061/JUPDDM.UPENG-5723)*
+*[link](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Heat+Adaptation+in+Street+Markets%3A+The+Role+of+Fog+Cooling+Systems+in+Sales+Growth&btnG=)*
 
 **42. Lee, S., and Lee, J.S. (Corresponding Author). (2025)** <br>
 Assessing urban solar glare from glass curtain walls: Effects of street orientation and building form on sustainable design and public safety. <br>
