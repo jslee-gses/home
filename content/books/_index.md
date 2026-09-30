@@ -3,6 +3,10 @@ title: "Books"
 description: "Books and book chapters by Jae Seung Lee."
 ---
 
+**09. 이제승, 김세훈. (2026)** <br>
+"강남구" in 「서울감자도: 패트릭 애버크롬비의 포테이토 플랜으로 읽는 서울」. <br>
+서울: DOMINO Press.
+
 **08. 이제승. (2026)** <br>
 "도시 공간구조 시뮬레이션 기반 탄소중립 도시계획" in 「탄소중립도시의 계획과 실행」. <br>
 서울: 보성각.
