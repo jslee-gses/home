@@ -38,11 +38,3 @@ in *Transforming the Nation*. Seoul: Yonsei University Press. 301-319.
 **01. 이제승. (2008)** <br>
 「시간이 스쳐간 뉴욕의 거리」. <br>
 서울: 시공사.
-
----
-
-#### Patent
-
-**01. 이제승. (2022)** <br>
-GAN을 이용하는 인테리어 추천 방법 및 장치. <br>
-등록번호 10-2021-0032206.

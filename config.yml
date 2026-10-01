@@ -21,18 +21,21 @@ menu:
         - name: Books
           url: books/
           weight: 3
+        - name: Patent
+          url: patent/
+          weight: 4
         - name: Grants
           url: grants/
-          weight: 4
+          weight: 5
         - name: Projects
           url: projects/
-          weight: 5
+          weight: 6
         - name: Awards
           url: awards/
-          weight: 6
+          weight: 7
         - name: CV
           url: cv/
-          weight: 7
+          weight: 8
 
 params:
     description: "Jae Seung Lee's academic website: research papers, books, projects, awards, and curriculum vitae."
@@ -49,7 +52,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers","papers-domestic","books","grants","projects","awards"]
+    MainSections: ["papers","papers-domestic","books","patent","grants","projects","awards"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -68,6 +71,8 @@ params:
               url: papers-domestic/
             - name: Books
               url: books/
+            - name: Patent
+              url: patent/
             - name: Grants
               url: grants/
             - name: Projects
