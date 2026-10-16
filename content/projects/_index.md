@@ -3,6 +3,9 @@ title: "Projects"
 description: "Commissioned and consulting projects led by Jae Seung Lee."
 ---
 
+**59. 신성장사업 장기수익 사업화 중장기 로드맵 수립 용역 (2026)** <br>
+KORAIL, Boston Consulting Group | 연구참여
+
 **58. LH AI 시범도시 전략계획 수립 용역 (2026)** <br>
 LH 한국토지주택공사 | 연구참여
 
