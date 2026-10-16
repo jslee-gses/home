@@ -7,6 +7,11 @@ Full and up-to-date list also available on [Google Scholar](https://scholar.goog
 
 ---
 
+**45. Kim, Y.E., Kim, H.K., Lee, J.S., and Lee, J.K. (2026)** <br>
+Temperature associations and structural correlates of summer crime in Chicago: Evidence from panel and spatial regression analyses. <br>
+*International Journal of Disaster Risk Reduction* (SCIE). 146: 106481. <br>
+*[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ejXZ0kAAAAJ&sortby=pubdate&citation_for_view=4ejXZ0kAAAAJ:mvPsJ3kp5DgC)*
+
 **44. Yoon, S., Lee, J.S., and Kim, S. (2026)** <br>
 Selective polycentricity in the knowledge economy: CBD primacy and subcenter heterogeneity in Seoul. <br>
 *Journal of Urban Management* (ESCI). 15: 1178–1194. <br>
