@@ -32,7 +32,7 @@ Assessing urban solar glare from glass curtain walls: Effects of street orientat
 *Sustainable Cities and Society* (SCIE). 135: 106984. <br>
 *[link](https://scholar.google.com/scholar?q=Assessing+urban+solar+glare+from+glass+curtain+walls%3A+Effects+of+street+orientation+and+building+form+on+sustainable+design+and+public+safety.)*
 
-**41. Jung, G., Lee, J.S., and Kim, S. (2025)** <br>
+**41. Jung, H., Lee, J.S., and Kim, S. (2025)** <br>
 Beyond population density: A new framework for compact cities through amenity survival analysis. <br>
 *Cities* (SSCI). 168: 106493. <br>
 *[link](https://scholar.google.com/scholar?q=Beyond+population+density%3A+A+new+framework+for+compact+cities+through+amenity+survival+analysis.)*
