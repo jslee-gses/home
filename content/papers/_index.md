@@ -7,7 +7,7 @@ Full and up-to-date list also available on [Google Scholar](https://scholar.goog
 
 ---
 
-**46. Lee, H., and Lee, J.S. (2027)** <br>
+**46. Lee, H., and Lee, J.S. (Corresponding Author). (2027)** <br>
 Shaping street rhythms: Spatial context and the temporal patterns of pedestrian activity. <br>
 *Land Use Policy* (SSCI). 173: 108370. <br>
 *[link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4ejXZ0kAAAAJ&pagesize=80&sortby=pubdate&citation_for_view=4ejXZ0kAAAAJ:kRWSkSYxWN8C)*
